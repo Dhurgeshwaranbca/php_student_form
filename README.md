@@ -11,7 +11,7 @@ About this Project:
 
 # How To Start:
 
-1. Open Web Browser and conifg the localhost
+1. Open Web Browser conifg the localhost and execute a (Update.php)
 2. Enter a details and click submit.
 
 # Built with
